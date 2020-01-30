@@ -1,0 +1,17 @@
+{
+  "name": "@test/b",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "typings": "./dist/types",
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "devDependencies": {
+    "@test/a": "0.0.0",
+    "@types/node": "^12.12.25",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+  }
+}

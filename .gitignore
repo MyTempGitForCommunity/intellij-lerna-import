@@ -1,0 +1,19 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+dist
+db
+
+# IDEs and editors
+.idea
+
+# misc
+npm-debug.log
+yarn-error.log
+lerna-debug.log
+yarn.lock
+
+# System Files
+.DS_Store
+Thumbs.db
